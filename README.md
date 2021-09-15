@@ -5,7 +5,7 @@ HTML and CSS HTML used to write the page and CSS used to design it.
 ## Summary
 Refactored code to eliminate redundancies and impliment proper semantic HTML.
 ## Preview of the site
-![image]()
+![image](Capture homework.PNG)
 ## Code Snippet (Adjusted Css)
 ```
 aside div {
