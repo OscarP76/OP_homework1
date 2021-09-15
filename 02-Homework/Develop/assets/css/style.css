@@ -121,7 +121,7 @@ aside img {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Added footer tags to improve look and to allow for greater control in the stylesheet */
 footer {
     padding: 30px;
     clear: both;
